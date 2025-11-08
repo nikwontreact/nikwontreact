@@ -4,7 +4,7 @@
 
   <!-- Hero -->
 
-  <img src="https://media.tenor.com/2Bv8ZcuvnGgAAAAC/zoro-one-piece.gif" width="140" alt="Zoro" />
+  <img src="https://tenor.com/view/amin-gif-10267039651200190082" width="140" alt="Zoro" />
 
   <h1 align="center" style="margin:0; padding:0;">Nikhil — Frontend Developer</h1>
 
