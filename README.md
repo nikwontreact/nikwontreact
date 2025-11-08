@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- ⚡ Polished, minimalist + animated GitHub Profile README for Nikhil -->
 
-<!--
-**nikwontreact/nikwontreact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- Hero -->
 
-- 🔭 I’m currently working on full stack todo app 
-- 🌱 I’m currently learning fastapi 
-- 👯 I’m looking to collaborate on react projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://media.tenor.com/2Bv8ZcuvnGgAAAAC/zoro-one-piece.gif" width="140" alt="Zoro" />
+
+  <h1 align="center" style="margin:0; padding:0;">Nikhil — Frontend Developer</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3300&pause=1000&center=true&vCenter=true&width=520&lines=React+%7C+Tailwind+%7C+Framer+Motion;JavaScript+%7C+HTML;Python+%7C+FastAPI+%7C+Pydantic;Minimalist+UI+%2B+Smooth+Animations" alt="Typing intro" />
+  </a>
+
+  <!-- Thin divider -->
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:14b8a6&height=2&section=header&reversal=true" width="100%" alt="divider" />
+</div>
+
+### about
+
+* building clean, fast interfaces with **React + Tailwind + Framer Motion**.
+* crafting **type‑safe APIs** with **FastAPI + Pydantic**.
+* minimalist by default; micro‑interactions when it matters.
+
+### tech i ship with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,tailwind,git,github,vite,vercel" height="32" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" height="32" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-0C0C0C?logo=pydantic&logoColor=E92063" />
+</p>
+
+### featured work
+
+> replace `#` with real links.
+
+* **✨ portfolio** — React, Tailwind, Framer Motion · fast + a11y · <a href="#">repo</a>
+* **🧩 ui playground** — headless components with motion patterns · <a href="#">repo</a>
+* **⚡ api starter** — FastAPI + Pydantic + JWT + tests · <a href="#">repo</a>
+
+### motion preview
+
+<div align="center">
+  <img src="https://media.tenor.com/2n5tqWwHJVcAAAAC/zoro-roronoa.gif" width="320" alt="Zoro gif" />
+  <br/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=transparent" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" alt="Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top Langs"/>
+</p>
+
+### contact
+
+* twitter/x: **@yourhandle**
+* email: **[you@domain.com](mailto:you@domain.com)**
+
+---
+
+<details>
+  <summary>setup notes</summary>
+
+* change `nikwontreact` and links above.
+* if a gif 404s, swap its url with another **Zoro** gif.
+* pin your repos to match **featured work** (profile → customize your pins).
+* optional: add a views badge: `![views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)`
+
+</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:14b8a6&height=90&section=footer" width="100%" alt="wave"/>
+  <br/>
+  <i>"Nothing happened." — Roronoa Zoro</i>
+</div>
