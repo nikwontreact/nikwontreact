@@ -4,7 +4,7 @@
 
   <!-- Hero -->
 
-  <img src="https://tenor.com/view/amin-gif-10267039651200190082" width="140" alt="Zoro" />
+  <img src="./assets/One Piece Zoro Vs King GIF - One piece Zoro vs king King of hell - Discover & Share GIFs.gif" width="140" alt="Zoro" />
 
   <h1 align="center" style="margin:0; padding:0;">Nikhil — Frontend Developer</h1>
 
@@ -37,7 +37,7 @@
 
 ### featured work
 
-> replace `#` with real links.
+
 
 * **✨ portfolio** — React, Tailwind, Framer Motion · fast + a11y · <a href="#">repo</a>
 * **🧩 ui playground** — headless components with motion patterns · <a href="#">repo</a>
