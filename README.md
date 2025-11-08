@@ -1,6 +1,6 @@
 <!-- ⚡ Polished, minimalist + animated GitHub Profile README for Nikhil -->
 
-<div align="center">
+<div align="center ">
 
   <!-- Hero -->
 
@@ -63,8 +63,8 @@
 
 ### contact
 
-* twitter/x: **@yourhandle**
-* email: **[you@domain.com](mailto:you@domain.com)**
+
+* email: **nikhildebugs@gmail.com**
 
 ---
 
