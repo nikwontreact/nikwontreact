@@ -46,7 +46,7 @@
 ### motion preview
 
 <div align="center">
-  <img src="https://media.tenor.com/2n5tqWwHJVcAAAAC/zoro-roronoa.gif" width="320" alt="Zoro gif" />
+  <img src="https://tenor.com/view/amin-gif-10267039651200190082" width="320" alt="Zoro gif" />
   <br/>
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
@@ -66,17 +66,6 @@
 
 * email: **nikhildebugs@gmail.com**
 
----
-
-<details>
-  <summary>setup notes</summary>
-
-* change `nikwontreact` and links above.
-* if a gif 404s, swap its url with another **Zoro** gif.
-* pin your repos to match **featured work** (profile → customize your pins).
-* optional: add a views badge: `![views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)`
-
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:14b8a6&height=90&section=footer" width="100%" alt="wave"/>
